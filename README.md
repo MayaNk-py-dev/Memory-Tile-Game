@@ -1,5 +1,6 @@
 # Memory-Tile-Game
 Memory Tile Game. Made in Python using Pygame. 
+Run app.py to Play the Game.
 
 Languages & Libraries : 
 <p align="center">
